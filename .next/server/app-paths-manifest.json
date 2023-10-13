@@ -1,0 +1,9 @@
+{
+  "/probabilidade/page": "app/probabilidade/page.js",
+  "/trimestral/page": "app/trimestral/page.js",
+  "/revisao/page": "app/revisao/page.js",
+  "/historia/page": "app/historia/page.js",
+  "/tarefas/page": "app/tarefas/page.js",
+  "/mapa/page": "app/mapa/page.js",
+  "/home/page": "app/home/page.js"
+}
